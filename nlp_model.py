@@ -16,7 +16,7 @@ domain = 'IT'
 job_description = get_job_description(domain)
 job_keywords = extract_keywords(job_description)
 
-print(domain)
-print(job_description)
-print(job_keywords)
+# print(domain)
+# print(job_description)
+# print(job_keywords)
 
